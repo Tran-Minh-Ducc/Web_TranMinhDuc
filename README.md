@@ -71,7 +71,6 @@ CommuteMatch – Ghép chuyến đi chung cho cộng đồng
 
 ## 7. Link video
 
-<h3>7. Link video</h3>
 <a href="LINK_VIDEO_DEMO_CUA_BAN" target="_blank">Xem video demo tại đây</a>
 
 ## 8. Link GitHub
