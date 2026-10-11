@@ -71,11 +71,12 @@ CommuteMatch – Ghép chuyến đi chung cho cộng đồng
 
 ## 7. Link video
 
-[Dán link video demo tại đây](#)
+<h3>7. Link video</h3>
+<a href="LINK_VIDEO_DEMO_CUA_BAN" target="_blank">Xem video demo tại đây</a>
 
 ## 8. Link GitHub
 
-[Dán link GitHub tại đây](#)
+<p>Bạn đang ở tại GitHub</p>
 
 ---
 
