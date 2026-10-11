@@ -65,9 +65,9 @@ CommuteMatch – Ghép chuyến đi chung cho cộng đồng
 - (bổ sung thêm nếu có: thư viện biểu đồ, framework CSS, ...)
 - Thiết kế giao diện: Figma
 
-## 6. Link Figma
+## 6. Link Canva
 
-[Dán link Figma tại đây](#)
+[Dán link Canva tại đây](#)
 
 ## 7. Link video
 
