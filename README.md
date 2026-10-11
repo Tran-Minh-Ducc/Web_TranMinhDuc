@@ -67,7 +67,7 @@ CommuteMatch – Ghép chuyến đi chung cho cộng đồng
 
 ## 6. Link Canva
 
-[Dán link Canva tại đây](#)
+<a href="https://canva.link/0mh1sakvndz5o1n" target="_blank">Xem slide Canva tại đây</a>
 
 ## 7. Link video
 
