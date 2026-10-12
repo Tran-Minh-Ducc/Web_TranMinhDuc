@@ -7,6 +7,7 @@
 ## 1. Tên đề tài
 
 CommuteMatch – Ghép chuyến đi chung cho cộng đồng
+Nhóm có 4 vai trò. Em làm về 2 vai trò là: Điều phối viên, Quản trị viên
 
 ## 2. Tên trang đã thực hiện
 
@@ -62,7 +63,7 @@ CommuteMatch – Ghép chuyến đi chung cho cộng đồng
 ## 5. Công nghệ sử dụng
 
 - HTML5, CSS3, JavaScript
-- (bổ sung thêm nếu có: thư viện biểu đồ, framework CSS, ...)
+- (bổ sung thêm: thư viện biểu đồ, framework CSS, ...)
 - Thiết kế giao diện: Figma
 
 ## 6. Link Canva
