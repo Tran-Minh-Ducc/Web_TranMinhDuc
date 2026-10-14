@@ -77,7 +77,7 @@ CommuteMatch – Ghép chuyến đi chung cho cộng đồng.
 
 ## 8. Link GitHub
 
-<p>Bạn đang ở tại GitHub</p>
+<a href="https://github.com/nguyentrunghieulawx-hue/CSE122_Commute-Match_team-6" target="_blank">Link Github nhóm 6 tại đây</a>
 
 ---
 
