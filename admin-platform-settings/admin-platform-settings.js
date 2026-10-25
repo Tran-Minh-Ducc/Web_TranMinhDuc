@@ -5,7 +5,6 @@
    1. Hiện thông báo nhanh (toast) sau mỗi thao tác
    2. Nút ≡: bật / tắt menu trên màn hình nhỏ
    3. Các nút Lưu: đóng hộp thoại và báo thành công
-   4. Giữ giao diện Tối nếu người dùng đã chọn từ trước
    ===================================================== */
 
 (function () {
@@ -41,9 +40,4 @@
       toast();
     }
   });
-
-  /* ---------- Giữ giao diện Tối nếu đã chọn từ trước ---------- */
-  if (localStorage.getItem("cmTheme") === "dark") {
-    document.body.classList.add("dark");
-  }
 })();
