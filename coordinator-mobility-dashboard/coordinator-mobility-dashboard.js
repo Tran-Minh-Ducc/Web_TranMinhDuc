@@ -3,7 +3,6 @@
    Script riêng của trang, chạy độc lập (không dùng engine chung).
    Chức năng:
    1. Nút ≡: bật / tắt menu trên màn hình nhỏ
-   2. Giữ giao diện Tối nếu người dùng đã chọn từ trước
    ===================================================== */
 
 (function () {
@@ -20,9 +19,4 @@
       if (nav) nav.classList.toggle("open");
     }
   });
-
-  /* ---------- Giữ giao diện Tối nếu đã chọn từ trước ---------- */
-  if (localStorage.getItem("cmTheme") === "dark") {
-    document.body.classList.add("dark");
-  }
 })();
