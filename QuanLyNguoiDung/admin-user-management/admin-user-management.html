@@ -6,16 +6,17 @@
   <meta name="description" content="CommuteMatch - Quản lý người dùng">
   <title>Quản lý người dùng | CommuteMatch</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="admin-user-management.css">
+  <link rel="stylesheet" href="css/admin-user-management.css">
+  <link rel="stylesheet" href="../css/dark-mode.css">
 </head>
 <body data-page="admin-user-management">
   <div id="app" aria-live="polite">
     <div class="app-shell"><header class="topbar">
-      <a class="brand" href="../index/index.html"><span class="brand-mark">CM</span><span class="brand-name">CommuteMatch</span></a>
-      <nav class="main-nav" id="mainNav"><a class="nav-link " href="../admin-dashboard/admin-dashboard.html">Tổng quan</a><a class="nav-link active" href="../admin-user-management/admin-user-management.html">Người dùng</a><a class="nav-link " href="../admin-trip-management/admin-trip-management.html">Chuyến đi</a><a class="nav-link " href="../admin-report-center/admin-report-center.html">Báo cáo</a><a class="nav-link " href="../admin-platform-settings/admin-platform-settings.html">Cấu hình</a></nav>
+      <a class="brand" href="../HIEU/index.html"><span class="brand-mark">CM</span><span class="brand-name">CommuteMatch</span></a>
+      <nav class="main-nav" id="mainNav"><a class="nav-link " href="admin-dashboard.html">Tổng quan</a><a class="nav-link active" href="admin-user-management.html">Người dùng</a><a class="nav-link " href="admin-trip-management.html">Chuyến đi</a><a class="nav-link " href="admin-report-center.html">Báo cáo</a><a class="nav-link " href="admin-platform-settings.html">Cấu hình</a></nav>
       <div class="top-actions">
-        <a class="icon-button" href="../notifications/notifications.html" title="Thông báo">3</a>
-        <a class="icon-button avatar" href="../profile/profile.html" title="Hồ sơ">HA</a>
+        <a class="icon-button" href="../DAI/notifications.html" title="Thông báo">3</a>
+        <a class="icon-button avatar" href="../DAI/profile.html" title="Hồ sơ">HA</a>
         <button class="icon-button menu-button" data-action="menu" aria-label="Mở menu">≡</button>
       </div>
     </header><main class="page-main"><div class="page-heading"><div><div class="eyebrow">QUẢN TRỊ VIÊN</div><h1>Quản lý người dùng</h1><p class="muted">Phân vai trò, theo dõi và xử lý trạng thái tài khoản.</p></div><button class="btn btn-primary" data-modal="userModal">Thêm người dùng</button></div>
@@ -24,6 +25,8 @@
 
     <div class="toast" id="toast">Đã cập nhật thành công</div>
   </div>
-  <script src="admin-user-management.js"></script>
+  <script src="js/duong-dan.js"></script>
+  <script src="js/admin-user-management.js"></script>
+    <script src="../HIEU/js/theme.js"></script>
 </body>
 </html>
